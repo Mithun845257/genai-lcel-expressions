@@ -135,3 +135,5 @@ COMPLEX CHAIN
 <img width="577" height="535" alt="image" src="https://github.com/user-attachments/assets/a6638aab-2fc9-40a4-97dd-d7ae47285e53" />
 
 ### RESULT:
+The implemented LCEL expression takes at least two prompt parameters, processes them using a model, and formats the output with a parser, demonstrating its effectiveness through real-world examples.
+
