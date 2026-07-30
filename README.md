@@ -24,6 +24,10 @@ Build a Retrieval System: Store predefined texts in DocArrayInMemorySearch with 
 Invoke the Chain: Run chain.invoke() with a question to retrieve context-based answers using the LangChain pipeline.
 
 ### PROGRAM:
+Developed By : Mithun G
+
+Reg no : 212225040235
+
 SIMPLE CHAIN
 ```
 import os
